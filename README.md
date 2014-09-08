@@ -1,4 +1,4 @@
 git_resume
 ==========
 
-Resume
+Repo to hold resumes. Both present and past.
